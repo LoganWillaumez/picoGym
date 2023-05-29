@@ -36,9 +36,10 @@ Each challenge is listed in its own directory. The directory name is the title o
 - An `exploit` file (if applicable): This file contains the actual exploit code or script that I used to solve the challenge.
 - Other potential files: Depending on the challenge, there might be other files such as screenshots, additional scripts, or resources that were used or referenced in the process of solving the challenge.
 
-Here are the challenges I have solved so far:
+Here are the challenges I have solved so far, grouped by event:
 
-1. [Challenge 1](challenge-1/README.md)
+### PicoCTF - 2021
+1. [Challenge 1](picoCTF-2021/challenge-1/README.md)
     - and so on...
 
 
