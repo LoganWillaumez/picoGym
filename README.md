@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![CTF Platform](https://img.shields.io/badge/CTF-PicoCTF-orange)
 [![Last Commit](https://img.shields.io/github/last-commit/LoganWillaumez/picoGym.svg)](https://github.com/LoganWillaumez/picoGym/commits/main)
-![Solved Challenges](https://img.shields.io/badge/Solved_Challenges-1-blue)
+![Solved Challenges](https://img.shields.io/badge/Solved_Challenges-5-blue)
 
 
 
@@ -40,6 +40,10 @@ Here are the challenges I have solved so far, grouped by event:
 
 ### PicoCTF - 2021
 1. [Challenge 1](picoCTF-2021/challenge-1/README.md)
+2. [Challenge 2](picoCTF-2021/challenge-2/README.md)
+3. [Challenge 3](picoCTF-2021/challenge-3/README.md)
+4. [Challenge 4](picoCTF-2021/challenge-4/README.md)
+5. [Challenge 5](picoCTF-2021/challenge-5/README.md)
     - and so on...
 
 
