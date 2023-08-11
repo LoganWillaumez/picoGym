@@ -44,6 +44,8 @@ Here are the challenges I have solved so far, grouped by event:
 3. [Challenge 3](picoCTF-2021/challenge-3/README.md)
 4. [Challenge 4](picoCTF-2021/challenge-4/README.md)
 5. [Challenge 5](picoCTF-2021/challenge-5/README.md)
+6. [Challenge 6](picoCTF-2021/challenge-6/README.md)
+7. [Challenge 7](picoCTF-2021/challenge-7/README.md)
     - and so on...
 
 

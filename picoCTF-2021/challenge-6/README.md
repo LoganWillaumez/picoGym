@@ -1,17 +1,16 @@
-# Information
+# Nice netcat...
 
 ## <u>🎯 Challenge Information</u>
 
 **📚 Challenge Category:**  
-Forensics
-
+General Skills
 ---
 **📝 Challenge Description:**  
-Files can always be changed in a secret way. Can you find the flag?
+There is a nice program that you can talk to by using this command in a shell: $ nc mercury.picoctf.net 21135, but it doesn't speak English...
 
 ---
 **🏅 Challenge Points:**  
-10 points
+15 points
 
 ---
 **🗓 Challenge Event:**  
@@ -20,21 +19,20 @@ picoCTF 2021
 ## <u> ✍️ Write-up </u>
 
 ### 🚀 Introduction
-This challenge focused on the extraction of hidden information from an image file. It involved understanding and using the Exif metadata in the JPEG image and utilizing basic encoding techniques to uncover the hidden flag.
+This challenge focused on the decoding of random number received.
 
 ---
 ### 📝 Detailed Steps
 
 1. **Step 1**  
-I first downloaded the provided image file cat.jpg and inspected its Exif metadata using the exiftool command:
+I first launch the command given to the description of the CTF
 
 ```bash
-exiftool cat.jpg
+nc mercury.picoctf.net 21135
 ```
 
 2. **Step 2**  
-Upon inspecting the metadata output, I noticed a suspicious base64 string under the License field.
-
+It give me a lot of numbers, I thinked about Ascii letters and tried one of it to be sure
 3. **Step 3**  
 Recognizing the base64 string, I proceeded to decode it.
 
