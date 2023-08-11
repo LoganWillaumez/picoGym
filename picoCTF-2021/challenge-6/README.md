@@ -34,9 +34,7 @@ nc mercury.picoctf.net 21135
 2. **Step 2**  
 It give me a lot of numbers, I thinked about Ascii letters and tried one of it to be sure
 3. **Step 3**  
-Recognizing the base64 string, I proceeded to decode it.
-
-The output revealed the flag: 
+To decode these numbers into a meaningful string, I crafted a Python script that handles the connection, data fetching, and decoding. A detailed breakdown can be found within the script file placed in the same directory as this challenge:
 
 ---
 ### 🎈 Conclusion
